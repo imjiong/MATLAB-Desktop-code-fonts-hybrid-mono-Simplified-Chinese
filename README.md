@@ -3,4 +3,4 @@
 # 使用方法
 打开 MATLAB 的程序文件夹（例如我的是 ```D:\Program Files\MATLAB\R2024b\sys\java\jre\win64\jre\lib\fonts``` ），复制你要用的字体到这里。再打开MATLAB，更换相应字体即可。
 # keywords
-MATLAB 简体 中文 汉语 中英文 混合 合成 桌面 代码 等宽 字体
+MATLAB 简体 中文 Simplified Chinese 汉语 中英文 混合 mixed 合成 hybrid 桌面 Desktop 代码 Code 等宽 mono 字体 fonts
